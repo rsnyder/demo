@@ -28,6 +28,8 @@ sandstone buttes, with the largest reaching 1,000 ft (300 m) above the valley fl
 formations are located in northeastern Arizona along the Utah–Arizona state line. The valley is considered sacred by the
 [Navajo Nation](Q1783171), the Native American people within whose reservation it lies.[^2]
 
+asfasfdfa
+
 {% include embed/image.html id="image" src="wc:Monument_Valley,_Utah,_USA.jpg" caption="Monument Valley, UT" aspect="1.272" %}
 
 Major rock formations include [West](image/zoomto/pct:10.94,27.88,21.05,30){: label="West Mitten Butte"} and [East
