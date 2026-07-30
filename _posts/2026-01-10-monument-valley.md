@@ -79,6 +79,8 @@ Monument Valley has been featured in many forms of media since the 1930s. Famed 
 a number of his Westerns. Film critic Keith Phipps wrote that "its five square miles [13 km2] have defined what decades
 of moviegoers think of when they imagine the American West".[^3]
 
+{% include embed/map.html center="" %}
+
 ---
 
 
